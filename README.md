@@ -41,5 +41,5 @@ Player (Represents the player of the game and his/her resources)
 +other shit
 
 Responsibility List:
-Anthony will do some shit
-Daniel will do some other shit
+Anthony will do DrawingSurface, Wall, Wallpiece, Player, + sprites 
+Daniel will do Person, Worker, Gaurd, Player
