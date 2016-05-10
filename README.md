@@ -43,3 +43,9 @@ Player (Represents the player of the game and his/her resources)
 Responsibility List:
 Anthony will do DrawingSurface, Wall, Wallpiece, Player, + sprites 
 Daniel will do Person, Worker, Gaurd, Player
+
+
+Your instructions are not very clear
+  - What does "press button to do the thing" mean?
+It might be hard to make so many different types of AI in the 2 weeks we have (for all of the workers, guards, attackers, etc.)
+How are you going to do the graphics? Drawing everything in PApplet might take a while, and drawing all the sprites might also take a long time.
