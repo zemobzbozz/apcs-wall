@@ -17,10 +17,9 @@ Must Have
 - One type of worker to maintain the wall
 - One type of defense to bolster wall defenses
 - One type of gaurd to defend the wall and man the defense structure
-- One main character which denotes the player
-- One type of Ai which has a set playstyle when interacting with the main character
+- Set AI for gaurd and workers (gaurd automatically shoots aliens when in range, workers auto fix broken walls when in range) 
 - One type of Alien enemy with a set behavior
--
+
 Want to Have
 - Interactive settings that can change the color/appearance of different wall parts
 - Individual worker classes that have different sprites and functions
