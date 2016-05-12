@@ -3,6 +3,7 @@ public class Person
   private double locX;
   private double locY;
   private ArrayList<String> taskQueue;
+  private int health; 
   
   public Person(double x, double y)
   {
@@ -26,6 +27,15 @@ public class Person
     {
       
     }
+  }
+  public int getHealth()
+  {
+    return health;
+  }
+  public int setHealth(int i)
+  {
+    health = i; 
+    return health;
   }
   
 }
